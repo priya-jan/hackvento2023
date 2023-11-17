@@ -26,5 +26,5 @@ def run(photo):
 if st.button('Upload'):
     image = Image.open(photo)
     # st.image(image, caption="Uploaded Image", use_column_width=True)
-    run('WhatsApp Image 2023-10-14 at 9.32.03 AM.jpeg')
+    run("image/WhatsApp Image 2023-10-14 at 9.32.03 AM.jpeg")
 
